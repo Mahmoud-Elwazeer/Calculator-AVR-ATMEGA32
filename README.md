@@ -3,9 +3,17 @@ Make Calculator on Proteus by AVR ( ATMEGA32 ) and Display 16 Bit
 
 # Options:
 
+- 16-digit number support
+- Addition (Finding the Sum; ‘+’)
+- Subtraction (Finding the difference;  ‘-’)
+- Multiplication (Finding the product; ‘×’ )
+- Division (Finding the quotient; ‘÷’)
 
 # Requirements
-
+ 
+- ATMEGA 32 OR 16
+- LCD 16*2 Display
+- Matrix Keypord
 
 # Preview
 
